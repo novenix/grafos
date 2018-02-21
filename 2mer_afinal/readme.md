@@ -4,6 +4,7 @@ en la que cada parametro corresponde:
 ciudad1,ciudad2,distancia, tiempo, numero de peajes.
 
 bogota,cartagena,1,1,1
+
 cartagena,barranquilla,6,1,5
 bogota,medellin,2,1,3
 medellin,bogota,0,1,8
