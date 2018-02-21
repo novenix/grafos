@@ -1,6 +1,7 @@
 ## para correr
 se debe abrir programa rut, f5, luego ingresar:
 en la que cada parametro corresponde:
+
 ciudad1,ciudad2,distancia, tiempo, numero de peajes.
 
 bogota,cartagena,1,1,1/n
